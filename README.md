@@ -1,2 +1,2 @@
 # MinimalAPI-Formula1-NodeJS
-A  Fórmula 1 Minimal API with Node.js and Fastify
+A minimal API using Node.js and Fastify. This simplified API focuses on basic CRUD operations, ideal for projects that require fast responses and a minimalist environment.
